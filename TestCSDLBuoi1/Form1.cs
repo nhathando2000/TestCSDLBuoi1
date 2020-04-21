@@ -15,6 +15,7 @@ namespace TestCSDLBuoi1
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Hello Huy Han Oanh Don");
         }
     }
 }
