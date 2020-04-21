@@ -13,7 +13,7 @@ namespace TestCSDLBuoi1
         /// </summary>
         /// hello các bạn, đố bạn bít mình là ai á
         /// hello mình là Huy nữa nè
-        /// asfkjahdfagdfieeoiufy
+        /// Hello Hàn nè
         [STAThread]
         static void Main()
         {
