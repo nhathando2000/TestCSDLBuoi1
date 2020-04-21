@@ -14,6 +14,7 @@ namespace TestCSDLBuoi1
         /// hello các bạn, đố bạn bít mình là ai á
         /// Hello mình là Giỏi
         /// Hello Hàn nè
+        /// cjksdnckds
         [STAThread]
         static void Main()
         {
