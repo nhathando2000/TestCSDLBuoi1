@@ -11,6 +11,7 @@ namespace TestCSDLBuoi1
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
+        /// hello các bạn, đố bạn bít mình là ai á
         [STAThread]
         static void Main()
         {
