@@ -15,6 +15,12 @@ namespace TestCSDLBuoi1
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Hi Everyone")
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
